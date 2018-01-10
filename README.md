@@ -22,6 +22,7 @@ $ make setup
 ### Running
 
 ```
+$ workon datascience
 $ make run
 ```
 
