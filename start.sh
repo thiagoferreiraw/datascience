@@ -1,1 +1,2 @@
+workon datascience
 jupyter notebook
